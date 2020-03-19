@@ -6,9 +6,9 @@
   weight = 1
     
 [[main]]
-  identifier = "privacyFAQs"
-  name = "privacyFAQs"
-  url = "privacyFAQs"
+  identifier = "privacy"
+  name = "privacy"
+  url = "privacy"
   weight = 2
 
 [[main]]
