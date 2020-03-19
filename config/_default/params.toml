@@ -126,7 +126,7 @@ commento = false
   changyanAppkey = ""       # Changyan app key
 
 [livere]
-  livereUID = ""            # LiveRe UID                  # 来必力
+  livereUID = "MTAyMC80OTE4NC8yNTY3OA=="            # LiveRe UID                  # 来必力
 
 # Isso: https://posativ.org/isso/
 [isso]
