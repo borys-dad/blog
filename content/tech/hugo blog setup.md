@@ -1,5 +1,5 @@
 ---
-title: "Tech"
+title: "Hugo+github으로 블로그 만들기"
 date: 2020-03-24T23:03:00+09:00
 ---
 
